@@ -1,0 +1,15 @@
+{
+    "name": "the-future-of-office-work-exploring-the-intersection-of-ai-and-workflow-optimization",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
