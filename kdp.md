@@ -27,5 +27,5 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 17. AI-powered customer service in the office
 18. Office efficiency with AI
 19. Workforce optimization with AI
-20. AI strategies for office performance.
+20. AI strategies for office performance
 
