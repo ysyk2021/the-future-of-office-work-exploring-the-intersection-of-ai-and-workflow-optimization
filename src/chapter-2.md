@@ -1,5 +1,4 @@
-Chapter 2: Understanding AI Technology for Office Work
-======================================================
+
 
 In this chapter, we will explore the basic concepts and processes of AI algorithms for office automation and optimization, different types of AI techniques and applications for office workflow management and improvement, and the tools and platforms available for AI-enabled office productivity and performance enhancement.
 

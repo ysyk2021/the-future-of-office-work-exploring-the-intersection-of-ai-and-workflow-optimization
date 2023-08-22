@@ -1,4 +1,4 @@
-# Enabling Strategic Planning and Execution with AI-Enabled Forecasting and Simulation
+
 
 In this chapter, we will explore the impact of AI on office work by discussing how AI-enabled forecasting and simulation can enable strategic planning and execution.
 

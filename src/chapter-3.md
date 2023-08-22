@@ -1,5 +1,4 @@
-Chapter 3: Getting Started with AI-Enabled Office Work
-======================================================
+
 
 Artificial Intelligence (AI) has the potential to transform office work by improving efficiency, reducing errors, and increasing productivity. In this chapter, we will discuss how to get started with AI-enabled office work.
 

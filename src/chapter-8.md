@@ -1,5 +1,4 @@
-Chapter 8: The Future of Office Work and Workflow Optimization
-==============================================================
+
 
 Emerging Trends and Opportunities in the Intersection of AI and Office Work
 ---------------------------------------------------------------------------
