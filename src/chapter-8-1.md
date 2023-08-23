@@ -1,5 +1,4 @@
 
-
 The intersection of artificial intelligence (AI) and office work is rapidly evolving, with new technologies and applications emerging every day. In this chapter, we will discuss some of the emerging trends and opportunities in the intersection of AI and office work.
 
 Natural Language Processing (NLP)

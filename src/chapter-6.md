@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the impact that AI is having on office work. We will discuss how AI is increasing efficiency and effectiveness of office workflow and decision-making, enabling strategic planning and execution, and creating competitive advantage and business value.
 
 Increasing Efficiency and Effectiveness of Office Workflow and Decision-making with AI-Enabled Optimization and Innovation

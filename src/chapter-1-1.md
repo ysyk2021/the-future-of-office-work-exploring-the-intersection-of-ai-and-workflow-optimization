@@ -1,5 +1,4 @@
 
-
 Office work has been a staple of modern society for decades, with millions of people around the world spending most of their waking hours in front of computers, phones, and other digital devices. However, despite the advances in technology and the increasing adoption of automation tools, many office workers still struggle with repetitive tasks, inefficient workflows, and a lack of meaningful engagement.
 
 The COVID-19 pandemic has further exposed the limitations of traditional office work, forcing many companies to adopt remote work arrangements and digital collaboration tools. While this shift has brought some benefits, such as increased flexibility and reduced commuting time, it has also highlighted the need for innovation in how we approach office work.

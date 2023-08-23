@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how to select the right AI tools and platforms for your office work needs.
 
 Assessing Your Needs
