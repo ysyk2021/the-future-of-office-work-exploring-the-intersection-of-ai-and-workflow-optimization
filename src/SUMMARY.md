@@ -31,3 +31,4 @@
   - [Challenges and Risks of AI Adoption in Office Workflow Optimization](chapter-8-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

@@ -10,3 +10,7 @@ In the chapters that follow, we will dive deeper into specific areas where AI is
 The future of office work holds immense potential, and AI is at the forefront of this transformation. By embracing AI technologies and optimizing workflows, organizations can enhance productivity, foster innovation, and create a more agile and adaptive workplace. Join us as we embark on a journey to explore the intersection of AI and workflow optimization, uncovering the possibilities that lie ahead in the future of office work.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
