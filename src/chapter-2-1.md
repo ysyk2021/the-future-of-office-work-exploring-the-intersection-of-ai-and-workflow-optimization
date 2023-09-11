@@ -1,5 +1,4 @@
-Chapter 3: Basic Concepts and Processes of AI Algorithms for Office Automation and Optimization
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Understanding the fundamental concepts and processes of AI algorithms is crucial for harnessing their potential in office automation and optimization. This chapter provides a foundational overview of AI algorithms and their application in the modern office environment.
 

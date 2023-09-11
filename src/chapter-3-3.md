@@ -1,5 +1,4 @@
-Chapter 10: Creating a Customized Roadmap for AI Implementation in Your Office Workflow
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter serves as a practical guide to help organizations tailor an AI implementation roadmap that aligns with their unique office workflows and objectives, ensuring a successful integration of AI technologies.
 

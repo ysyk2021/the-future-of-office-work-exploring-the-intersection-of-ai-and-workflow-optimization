@@ -1,5 +1,4 @@
-Chapter 6: Improving Customer Service and Support with AI-Enabled Self-Service and Ticket Management
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter delves into the transformative impact of AI on customer service and support, focusing on self-service solutions and AI-powered ticket management systems that enhance customer experiences while optimizing office workflows.
 

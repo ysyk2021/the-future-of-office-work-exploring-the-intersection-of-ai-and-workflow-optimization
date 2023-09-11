@@ -1,5 +1,4 @@
-Chapter 6: Optimizing Project Management and Time Allocation with AI-Enabled Operations Management and Resource Planning
-========================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Efficient project management and effective resource allocation are essential components of a productive office environment. This chapter delves into the integration of AI-enabled operations management and resource planning to streamline project workflows and maximize time allocation.
 

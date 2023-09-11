@@ -1,5 +1,4 @@
-Chapter 7: Enabling Strategic Planning and Execution with AI-Enabled Forecasting and Simulation
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's dynamic business environment, strategic planning and execution are critical for an organization's success. This chapter explores the pivotal role that AI-enabled forecasting and simulation play in enhancing these essential processes.
 

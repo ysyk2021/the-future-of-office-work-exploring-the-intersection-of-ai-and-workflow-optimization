@@ -1,5 +1,4 @@
-Chapter 8: Increasing Efficiency and Effectiveness of Office Workflow and Decision-Making with AI-Enabled Optimization and Innovation
-=====================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly evolving landscape of office work, harnessing the power of AI-enabled optimization and innovation is essential for enhancing efficiency and effectiveness. This chapter explores the transformative role that AI plays in streamlining workflows and improving decision-making processes within the modern office.
 

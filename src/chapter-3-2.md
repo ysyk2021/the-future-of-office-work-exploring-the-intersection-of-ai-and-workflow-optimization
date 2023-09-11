@@ -1,5 +1,4 @@
-Chapter 9: Selecting the Right AI Tools and Platforms for Your Office Work Needs
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter guides organizations in the process of evaluating and choosing the most suitable AI tools and platforms to effectively address their specific office work requirements.
 

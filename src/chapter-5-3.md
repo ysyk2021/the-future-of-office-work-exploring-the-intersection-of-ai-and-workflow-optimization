@@ -1,5 +1,4 @@
-Chapter 8: Ensuring Business Resilience and Continuity with AI-Enabled Risk Management and Disaster Recovery
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's dynamic business landscape, ensuring resilience and continuity is paramount. This chapter delves into the role of AI in enhancing risk management and disaster recovery strategies to safeguard business operations.
 

@@ -1,5 +1,4 @@
-Chapter 4: Different Types of AI Techniques and Applications for Office Workflow Management and Improvement
-===========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores a variety of AI techniques and their practical applications in optimizing and managing office workflows. Understanding the different AI approaches is crucial for effectively implementing them in the office environment.
 

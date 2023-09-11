@@ -1,5 +1,4 @@
-Chapter 8: Challenges and Risks of AI Adoption in Office Workflow Optimization
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine the various challenges and potential risks associated with the adoption of AI in office workflow optimization. Understanding and addressing these issues is crucial for organizations embarking on their AI journey.
 

@@ -1,5 +1,4 @@
-Chapter 11: Emerging Trends and Opportunities in the Intersection of AI and Office Work
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting and rapidly evolving landscape at the intersection of AI and office work. These emerging trends and opportunities hold the potential to reshape the way we work and enhance productivity in the modern office environment.
 
